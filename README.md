@@ -25,4 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitto633&" alt="vitto633" /></p>
 
-![Snake Animation](https://github.com/vitto633/vitto633/blob/output/github-contribution-grid-snake.svg)
