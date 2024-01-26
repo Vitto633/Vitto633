@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/fbda6972158e334db2b065fd877aadfda70753d38eb86ac5c5da597cd1b18dab/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d266865696768743d3130302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=&amp;height=100&amp;section=header" style="max-width: 100%;">
 
-<h1 align="center">Olá 👋, Eu sou o Vitor Luz Santos</h1>
-<h3 align="center">Aluno da Etec HAS</h3>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hear-No-Evil%20Monkey.png" alt="Hear-No-Evil Monkey" width="25" height="25" />, Eu sou o Vitor Luz Santos</h1>
+<h3 align="center">Aluno da Etec HAS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png" alt="See-No-Evil Monkey" width="25" height="25" /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitto633&label=Profile%20views&color=0e75b6&style=flat" alt="vitto633" /> </p>
 
@@ -29,7 +29,7 @@
 
 
 
-## <h3 align="center">Me contate por:</h3>
+## <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speak-No-Evil%20Monkey.png" alt="Speak-No-Evil Monkey" width="25" height="25" /> Me contate por:</h3>
 <p align="center">
 <a href="https://instagram.com/vitto_633" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
