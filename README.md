@@ -11,7 +11,7 @@
 
 <p><img align="left"  height="180em"max-width="30%"src="https://github-readme-stats.vercel.app/api/top-langs?username=vitto633&show_icons=true&locale=en&layout=compact" alt="vitto633" /></p>
 <p><img align="right" height="180em" max-width="60%"src="https://github-readme-streak-stats.herokuapp.com/?user=vitto633&" alt="vitto633" /></p>
-<p>&nbsp;<img align="center" width="100%"  src="https://github-readme-stats.vercel.app/api?username=vitto633&show_icons=true&locale=en" alt="vitto633" /></p>
+<p>&nbsp;<img align="center" width="100%"  margin-top="20px"src="https://github-readme-stats.vercel.app/api?username=vitto633&show_icons=true&locale=en" alt="vitto633" /></p>
 
 ## <h3 align="center">Ferramentas que uso e estou aprendendo:</h3>
 
